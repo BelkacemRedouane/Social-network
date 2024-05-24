@@ -1,5 +1,3 @@
-# Projet Fullstack Groupe 11
-
 ## Description
 
 Ce projet est un réseau social développé en utilisant GraphQL, TypeScript, Apollo Server, Codegen et React. Il permet aux utilisateurs de créer des comptes, de publier des articles, d'ajouter des commentaires et de liker ou unliker des articles.
@@ -21,7 +19,7 @@ Suivez les étapes ci-dessous pour cloner le projet, installer les dépendances 
 
 2. Accédez au répertoire du projet.
     ```bash
-    cd Projet_fullstack_Groupe11
+    cd Social-network
     ```
 
 3. Installez les dépendances pour le backend.
